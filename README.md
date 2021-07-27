@@ -75,6 +75,11 @@ b)      Obtenga los valores del circuito equivalente de Thévenin y anótalos en
 
 ![image](https://user-images.githubusercontent.com/84587091/127093181-0e6e5bbc-132e-4cbb-846f-ba407fd3c122.png)
 
+![image](https://user-images.githubusercontent.com/84587120/127101376-a9b07065-db57-4332-86f3-fa0925690341.png)
+
+![image](https://user-images.githubusercontent.com/84587120/127101397-cb21e731-35fe-445e-8b30-f124fe7728a5.png)
+
+
 5.5.2.   Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
 ![image](https://user-images.githubusercontent.com/84587091/127093210-0c1fc89a-8ed7-4c2d-b72f-da17138796fa.png)
