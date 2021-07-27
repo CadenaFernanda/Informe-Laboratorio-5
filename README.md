@@ -93,6 +93,10 @@ CONCLUSIONES
 
 *Al realizar el respectivo análisis de cada una de las mallas del circuito, medir sus voltajes y corrientes en cada uno de sus elementos , al ponerlo en práctica en el simulador nos marca un margen de error mínimo,los cuales pueden ser producidos porque no es un escenario real.
 
+Video: 
+
+Link: 
+
 Bibliografía
 
 Areatecnologia. (s.f.). TEOREMA DE THEVENIN Y NORTON. Obtenido de https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
