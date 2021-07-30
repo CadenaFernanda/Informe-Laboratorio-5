@@ -104,6 +104,8 @@ b)      Obtenga los valores del circuito equivalente de Thévenin y anótalos en
 
 ![image](https://user-images.githubusercontent.com/84587091/127095182-7de2beb6-7760-47f1-9c58-2f4fd1aab598.png)
 
+![image](https://user-images.githubusercontent.com/84587091/127697461-10b77336-68df-4d1e-ae03-bbd0e4a3d81c.png)
+
 CONCLUSIONES
 
 *Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos ya conocidos y mencionados con anterioridad sobre el teorema de Thévenin ,podemos concluir que:
