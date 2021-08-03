@@ -88,24 +88,17 @@ b)      Obtenga los valores del circuito equivalente de Thévenin y anótalos en
 
 5.5.3.   Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
-![image](https://user-images.githubusercontent.com/84587091/127093546-570c9a69-a6db-484f-a481-3ac3819eabd7.png)
+![image](https://user-images.githubusercontent.com/84427371/127948796-0b9f5892-db5d-497d-972b-aa914268a722.png)
 
 ![image](https://user-images.githubusercontent.com/84587091/127093934-3e3599ea-ff8e-499c-a295-25cb2280137d.png)
 
 5.5.4.   Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
-![image](https://user-images.githubusercontent.com/84587091/127094309-f60cea8b-1f91-4e00-b085-1feefdd5c007.png)
-
-![image](https://user-images.githubusercontent.com/84587091/127094416-7fe57583-c356-431a-bbd2-e00e32d70444.png)
+![image](https://user-images.githubusercontent.com/84427371/127948874-acd2dc10-b6d6-48dd-8235-76b4338f197a.png)
 
 5.5.5.   Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-![image](https://user-images.githubusercontent.com/84587091/127095255-24fe376d-bf7c-4128-a9df-8cbd1d510127.png)
-
-![image](https://user-images.githubusercontent.com/84587091/127095182-7de2beb6-7760-47f1-9c58-2f4fd1aab598.png)
-
-![image](https://user-images.githubusercontent.com/84587091/127697461-10b77336-68df-4d1e-ae03-bbd0e4a3d81c.png)
-
+![image](https://user-images.githubusercontent.com/84427371/127948931-c474c383-6c6a-4a9e-8ef4-81aa6a693a2c.png)
 CONCLUSIONES
 
 *Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos ya conocidos y mencionados con anterioridad sobre el teorema de Thévenin ,podemos concluir que:
